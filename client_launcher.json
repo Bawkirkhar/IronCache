@@ -4,7 +4,7 @@
   "checkCountDownloadsFiles": "1",
   "checkCountDownloadsFilesCurrent": "1",
   "checkReleasePackageName": "ir.denizimp.user",
-  "checkFilesGameURL": "https://ironsamp.ir/IronRP/f/",
+  "checkFilesGameURL": "https://iron/Iron/f/",
   "checkFilesGame1": "files.z01",
   "checkFilesGame2": "files.z02",
   "checkFilesGame3": "files.zip",
@@ -69,6 +69,9 @@
   "verLauncher": "14"
 }"
 }}"
+}"
+}"
+}"
 }"
 }"
 }"
