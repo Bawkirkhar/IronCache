@@ -21,7 +21,7 @@
   "checkFilesGame14": "",
   "checkFilesGameArchive": "files.zip",
   "checkFilesGameArchiveVersion": "1",
-  "checkFilesClientURL": "https://ironsamp.ir/IronRP/client/",
+  "checkFilesClientURL": "https://ironsamp.ir/IronRP/goz/",
   "checkFilesClient1": "files_samp.zip",
   "checkFilesClient2": "",
   "checkFilesClient3": "",
@@ -36,7 +36,7 @@
   "checkFilesTexcture4": "",
   "checkFilesTexcture5": "",
   "checkFilesTexctureVersion": "1003",
-  "checkFilesTexctureURLBeta": "https://denizimp.ir/DenizIMP/client/update1/",
+  "checkFilesTexctureURLBeta": "https://denizimp.ir/DenizIMP/client/update165/",
   "checkFilesTexctureBeta": "files_texture.zip",
   "checkFilesPatchUpdateURL": "",
   "checkFilesPatchUpdate1": "",
@@ -75,4 +75,4 @@
 }"
 }"
 }"
-}
+}}
